@@ -1,6 +1,6 @@
 # ⚙️ V6 CMDs v3.1
 
-**EVAN SERVER Project| V6 CMDs v3.1**  
+**EVAN SERVER Project | V6 CMDs v3.1**  
 Complete & ASCII-safe with Admin Chat `/a` (Purple)  
 Optimized & HUD-Safe  
 Designed & Coded by: **V6EHSAN**
